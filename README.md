@@ -1,4 +1,0 @@
-hello
-=====
-
-For Learning Purpose
